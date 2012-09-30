@@ -1,25 +1,25 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: package N.N
-Subject: New package: package N.N -- decription
+Subject: New package: tree 1.6.0-1 -- Display graphical directory tree
 --text follows this line--
 
 PACKAGE DESCRIPTION
 ===================
 
-Homepage:
-License : GPL
+Homepage: http://mama.indstate.edu/users/ice/tree
+License : GPL-2+
 
-<write description here>
+Display an indented directory tree, using the same color assignments
+as ls, via the LS_COLORS environment variable.
 
 CHANGES SINCE LAST RELEASE
 ==========================
 
-<Add this section if this is update>
+See homepage for release notes.
 
 INSTALL OR UPGRADE NOTES
 ========================
 
-<if anything to watch out>
+Standard install.
 
 CYGWIN INSTALLATION INFORMATION
 ===============================

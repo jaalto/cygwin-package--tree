@@ -1,0 +1,67 @@
+tree
+------------------------------------------
+
+Display graphical directory tree
+
+Display an indented directory tree, using the same color assignments
+as ls, via the LS_COLORS environment variable.
+
+Runtime requirements:
+  cygwin
+
+Build requirements:
+  cygwin
+
+Canonical homepage:
+  http://packages.debian.org/unstable/utils/tree
+
+Canonical download:
+  See above
+
+Version control repository:
+
+Mailing list:
+
+Forum / Wiki:
+
+IRC channel:
+
+Upstream contact:
+  Author: Steve Baker <ice@mama.indstate.edu>
+  Bugs:
+
+------------------------------------
+
+Build instructions:
+  You may need cygbuild.sourceforge.net to build *src.tar.bz2 archive
+  unpack tree-1.4.2.2-1-src.tar.bz2
+    if you use setup to install this src package, it will be
+    unpacked under /usr/src automatically
+  cd /usr/src
+  ./tree*.sh all
+
+This will create:
+  tree-1.4.2.2-1.tar.bz2
+  tree-1.4.2.2-1-src.tar.bz2
+
+-------------------------------------------
+
+Files included in the binary distro:
+
+usr/bin/tree.exe
+usr/share/doc/Cygwin/tree-1.4.2.2.README
+usr/share/doc/tree-1.4.2.2/CHANGES
+usr/share/doc/tree-1.4.2.2/LICENSE
+usr/share/doc/tree-1.4.2.2/README
+usr/share/doc/tree-1.4.2.2/README.sacl
+usr/share/man/man1/tree.1.gz
+
+------------------
+
+Port Notes:
+
+----- version 1.6.0-1 -----
+- Initial release 2012-09-30 Jari Aalto
+
+Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
+Copyright (C) YYYY Firstname Lastname; Licensed under GPL v2 or later

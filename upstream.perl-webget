@@ -1,0 +1,2 @@
+tag1: tree
+  http://packages.debian.org/unstable/tree  pregexp:orig.tar.gz file:tree_1.6.0.orig.tar.gz new: x:

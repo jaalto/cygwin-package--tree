@@ -15,4 +15,5 @@
 
 tree usr/bin/
 doc/tree.1
-# doc/tree.1.fr
+doc/tree.1.fr usr/share/man/fr/man1/tree.1
+

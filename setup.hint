@@ -2,4 +2,4 @@ sdesc: "Display graphical directory tree"
 ldesc: "Display an indented directory tree, using the same color assignments
 as ls, via the LS_COLORS environment variable."
 category: Utils
-requires: cygwin
+requires:
